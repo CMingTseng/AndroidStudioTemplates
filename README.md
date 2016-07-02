@@ -5,8 +5,8 @@ Templates for android studio
 
 #### For Mac:
 
-Just copy all 3 directories `MVPFragment`, `MVPActivity` and `MVPBoilerplate` to `$ANDROID_STUDIO_FOLDER$/Contents/plugins/android/lib/templates/activities/`
+Just copy all you need directories to `$ANDROID_STUDIO_FOLDER$/Contents/plugins/android/lib/templates/activities/`
 
 #### For Windows:
 
-Just copy all 3 directories `MVPFragment`, `MVPActivity` and `MVPBoilerplate` to `$ANDROID_STUDIO_FOLDER$\plugins\android\lib\templates\activities\`
+Just copy all you need directories to `$ANDROID_STUDIO_FOLDER$\plugins\android\lib\templates\activities\`
