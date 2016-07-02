@@ -17,7 +17,7 @@ public class SimpleFragment extends Fragment{
         TextView tv = new TextView(getActivity());
         tv.setGravity(Gravity.CENTER);
         tv.setTextSize(40);
-        tv.setText(“tab content”);
+        tv.setText("tab content");
         return tv ;
     }
 }
