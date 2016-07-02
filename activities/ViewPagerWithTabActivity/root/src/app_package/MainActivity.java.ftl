@@ -35,7 +35,7 @@ public class ${activityClass} extends AppCompatActivity{
 
             @Override
             public CharSequence getPageTitle(int position){
-                return “TabTitle” + position;
+                return "TabTitle" + position;
             }
         };
         mViewPager.setAdapter(mAdapter);
