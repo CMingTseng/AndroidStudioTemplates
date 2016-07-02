@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-tools:context=" ${packageName}.${activityClass}">
+    tools:context=" ${packageName}.${activityClass}">
 
     <android.support.design.widget.TabLayout
         android:id="@+id/id_tablayout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content”/>
-
+        android:layout_height="wrap_content">
+    </android.support.design.widget.TabLayout>
     <android.support.v4.view.ViewPager
         android:id="@+id/id_viewpager"
         android:layout_width="match_parent"
